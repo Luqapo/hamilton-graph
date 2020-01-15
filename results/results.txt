@@ -1,0 +1,110 @@
+﻿Start time 08:00
+
+Start point: Dworzec 
+Walking: 3 mins 
+Transit: 7 mins, line: 296, departure: 8:12am, transit type: BUS 
+Walking: 2 mins 
+Time with Dworzec: 15 min 
+Start point: Alicja 
+Walking: 9 mins 
+Time with Alicja: 15 min 
+Start point: Martyna 
+Walking: 1 min 
+Time with Martyna: 15 min 
+Start point: Amelia 
+Walking: 6 mins 
+Transit: 4 mins, line: 296, departure: 9:19am, transit type: BUS 
+Walking: 3 mins 
+Time with Amelia: 15 min 
+Start point: Oliwia 
+Walking: 7 mins 
+Transit: 9 mins, line: 109, departure: 9:52am, transit type: BUS 
+Walking: 5 mins 
+Time with Oliwia: 15 min 
+Start point: Lena 
+Walking: 6 mins 
+Transit: 1 min, line: 11, departure: 10:25am, transit type: BUS 
+Walking: 4 mins 
+Time with Lena: 15 min 
+Start point: Karolina 
+Walking: 3 mins 
+Transit: 7 mins, line: 74, departure: 10:57am, transit type: BUS 
+Walking: 1 min 
+Time with Karolina: 15 min 
+Start point: Gabrysia 
+Walking: 5 mins 
+Time with Gabrysia: 15 min 
+Start point: Zuzia 
+Walking: 3 mins 
+Transit: 2 mins, line: 72, departure: 11:34am, transit type: BUS 
+Walking: 10 mins 
+Time with Zuzia: 15 min 
+Start point: Julia 
+Walking: 9 mins 
+Transit: 8 mins, line: 109, departure: 12:04pm, transit type: BUS 
+Walking: 12 mins 
+Time with Julia: 15 min 
+Start point: Maja 
+Walking: 16 mins 
+Transit: 7 mins, line: undefined, departure: 12:55pm, transit type: BUS 
+Walking: 11 mins 
+Time with Maja: 15 min 
+Start point: Ania 
+Walking: 1 min 
+Transit: 11 mins, line: 695, departure: 1:38pm, transit type: BUS 
+Walking: 16 mins 
+Time with Ania: 15 min 
+Start point: Hania 
+Walking: 4 mins 
+Transit: 4 mins, line: 973, departure: 2:39pm, transit type: BUS 
+Time with Hania: 15 min 
+Start point: Zosia 
+Transit: 1 min, line: 973, departure: 2:43pm, transit type: BUS 
+Walking: 3 mins 
+Transit: 5 mins, line: 297, departure: 2:52pm, transit type: BUS 
+Walking: 5 mins 
+Time with Zosia: 15 min 
+Start point: Marysia 
+Walking: 8 mins 
+Transit: 20 mins, line: 13, departure: 3:38pm, transit type: BUS 
+Walking: 7 mins 
+Time with Marysia: 15 min 
+Start point: Mariolka 
+Walking: 7 mins 
+Transit: 9 mins, line: 48, departure: 4:14pm, transit type: BUS 
+Transit: 9 mins, line: 121, departure: 4:45pm, transit type: BUS 
+Walking: 1 min 
+Time with Mariolka: 15 min 
+Start point: Nadia 
+Walking: 1 min 
+Transit: 9 mins, line: 121, departure: 5:44pm, transit type: BUS 
+Walking: 3 mins 
+Time with Nadia: 15 min 
+Start point: Emilia 
+Walking: 3 mins 
+Transit: 6 mins, line: 146, departure: 5:38pm, transit type: BUS 
+Walking: 2 mins 
+Time with Emilia: 15 min 
+Start point: Dominika 
+Walking: 4 mins 
+Transit: 30 mins, line: 130, departure: 6:02pm, transit type: BUS 
+Walking: 7 mins 
+Transit: 15 mins, line: 110, departure: 6:54pm, transit type: BUS 
+Walking: 15 mins 
+Time with Dominika: 15 min 
+Start point: Jola 
+Walking: 47 mins 
+Transit: 25 mins, line: 292, departure: 8:36pm, transit type: BUS 
+Walking: 13 mins 
+Time with Jola: 15 min 
+Start point: Wioletta 
+Walking: 24 mins 
+Transit: 18 mins, line: 30, departure: 9:39pm, transit type: BUS 
+Walking: 6 mins 
+Time with Wioletta: 15 min 
+End point: Dworzec
+
+Time with girls: 5.25 hours 
+Travel time: 9.016111111111112 hours 
+
+End time 22:26
